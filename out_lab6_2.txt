@@ -1,0 +1,240 @@
+New Cases: 0 at Pitcairn/Oceania on 6/15/2021 Total: 0 Pop: 47
+New Cases: 0 at Vatican/Europe on 3/7/2020 Total: 1 Pop: 511
+New Cases: 0 at Tokelau/Oceania on 6/21/2021 Total: 0 Pop: 1849
+New Cases: 0 at Niue/Oceania on 6/21/2021 Total: 0 Pop: 1937
+New Cases: 1 at Falkland Islands/South America on 4/4/2020 Total: 1 Pop: 3764
+New Cases: 1 at Montserrat/North America on 3/18/2020 Total: 1 Pop: 4417
+New Cases: 2 at Saint Helena/Africa on 9/7/2020 Total: 2 Pop: 5404
+New Cases: 1 at Saint Pierre and Miquelon/North America on 4/5/2020 Total: 1 Pop: 5883
+New Cases: 0 at Tuvalu/Oceania on 4/28/2021 Total: 0 Pop: 11204
+New Cases: 1 at Wallis and Futuna/Oceania on 10/19/2020 Total: 1 Pop: 11627
+New Cases: 0 at Nauru/Oceania on 4/9/2021 Total: 0 Pop: 12512
+New Cases: 0 at Anguilla/North America on 3/29/2020 Total: 2 Pop: 15753
+New Cases: 1 at Cook Islands/Oceania on 5/21/2021 Total: 1 Pop: 17003
+New Cases: 0 at Palau/Oceania on 8/23/2021 Total: 1 Pop: 18024
+New Cases: 2 at Bonaire Sint Eustatius and Saba/North America on 4/2/2020 Total: 2 Pop: 26706
+New Cases: 0 at British Virgin Islands/North America on 3/29/2020 Total: 2 Pop: 31122
+New Cases: 1 at Gibraltar/Europe on 3/4/2020 Total: 1 Pop: 32670
+New Cases: 0 at San Marino/Europe on 3/1/2020 Total: 1 Pop: 33746
+New Cases: 0 at Monaco/Europe on 3/1/2020 Total: 1 Pop: 36686
+New Cases: 1 at Liechtenstein/Europe on 3/4/2020 Total: 1 Pop: 39039
+New Cases: 0 at Marshall Islands/Oceania on 5/8/2020 Total: 0 Pop: 42050
+New Cases: 0 at Sint Maarten (Dutch part)/North America on 5/8/2021 Total: 0 Pop: 44042
+New Cases: 0 at Turks and Caicos Islands/North America on 3/29/2020 Total: 4 Pop: 45114
+New Cases: 0 at Saint Kitts and Nevis/North America on 3/26/2020 Total: 2 Pop: 47606
+New Cases: 0 at Northern Mariana Islands/Oceania on 4/4/2020 Total: 0 Pop: 49481
+New Cases: 1 at Faeroe Islands/Europe on 3/4/2020 Total: 1 Pop: 52888
+New Cases: 1 at Greenland/North America on 3/16/2020 Total: 1 Pop: 56243
+New Cases: 0 at Guernsey/Europe on 1/24/2021 Total: 0 Pop: 63065
+New Cases: 2 at Bermuda/North America on 3/19/2020 Total: 2 Pop: 64185
+New Cases: 0 at Cayman Islands/North America on 3/14/2020 Total: 1 Pop: 68136
+New Cases: 1 at Dominica/North America on 3/23/2020 Total: 2 Pop: 72412
+New Cases: 0 at Andorra/Europe on 3/3/2020 Total: 1 Pop: 79034
+New Cases: 0 at Isle of Man/Europe on 3/21/2020 Total: 1 Pop: 84263
+New Cases: 0 at Antigua and Barbuda/North America on 3/14/2020 Total: 1 Pop: 93220
+New Cases: 0 at United States Virgin Islands/North America on 3/25/2020 Total: 0 Pop: 100091
+New Cases: 1 at Saint Vincent and the Grenadines/North America on 3/14/2020 Total: 1 Pop: 104332
+New Cases: 0 at Tonga/Oceania on 4/21/2021 Total: 0 Pop: 106017
+New Cases: 6 at Seychelles/Africa on 3/15/2020 Total: 6 Pop: 106470
+New Cases: 0 at Aruba/North America on 3/14/2020 Total: 2 Pop: 106536
+New Cases: 0 at Jersey/Europe on 3/14/2021 Total: 0 Pop: 109618
+New Cases: 1 at Micronesia (country)/Oceania on 1/21/2021 Total: 1 Pop: 113131
+New Cases: 1 at Grenada/North America on 3/22/2020 Total: 1 Pop: 124610
+New Cases: 0 at Kiribati/Oceania on 5/19/2021 Total: 1 Pop: 128874
+New Cases: 0 at Guam/Oceania on 3/12/2020 Total: 0 Pop: 170534
+New Cases: 1 at Saint Lucia/North America on 3/14/2020 Total: 1 Pop: 179652
+New Cases: 1 at Curacao/North America on 3/14/2020 Total: 1 Pop: 190338
+New Cases: 1 at Samoa/Oceania on 11/18/2020 Total: 1 Pop: 218764
+New Cases: 0 at Sao Tome and Principe/Africa on 4/7/2020 Total: 4 Pop: 223107
+New Cases: 2 at Barbados/North America on 3/17/2020 Total: 2 Pop: 281200
+New Cases: 2 at New Caledonia/Oceania on 3/19/2020 Total: 2 Pop: 287800
+New Cases: 3 at French Polynesia/Oceania on 3/13/2020 Total: 3 Pop: 304032
+New Cases: 1 at Vanuatu/Oceania on 11/10/2020 Total: 1 Pop: 319136
+New Cases: 0 at Iceland/Europe on 2/29/2020 Total: 1 Pop: 370335
+New Cases: 0 at Belize/North America on 3/24/2020 Total: 1 Pop: 400031
+New Cases: 0 at Bahamas/North America on 3/17/2020 Total: 1 Pop: 407906
+New Cases: 0 at Brunei/Asia on 3/10/2020 Total: 1 Pop: 445373
+New Cases: 0 at Maldives/Asia on 3/9/2020 Total: 4 Pop: 521458
+New Cases: 0 at Malta/Europe on 3/5/2020 Total: 0 Pop: 526748
+New Cases: 2 at Cape Verde/Africa on 3/21/2020 Total: 3 Pop: 587925
+New Cases: 1 at Suriname/South America on 3/14/2020 Total: 1 Pop: 612984
+New Cases: 0 at Montenegro/Europe on 3/18/2020 Total: 2 Pop: 627859
+New Cases: 0 at Luxembourg/Europe on 2/25/2020 Total: 0 Pop: 639321
+New Cases: 0 at Macao/Asia on 1/22/2020 Total: 1 Pop: 686607
+New Cases: 0 at Solomon Islands/Oceania on 10/13/2020 Total: 2 Pop: 707851
+New Cases: 0 at Bhutan/Asia on 3/7/2020 Total: 1 Pop: 777486
+New Cases: 1 at Guyana/South America on 3/12/2020 Total: 1 Pop: 804567
+New Cases: 1 at Comoros/Africa on 4/30/2020 Total: 1 Pop: 821626
+New Cases: 0 at Cyprus/Europe on 3/8/2020 Total: 0 Pop: 896007
+New Cases: 0 at Fiji/Oceania on 1/31/2020 Total: 0 Pop: 924610
+New Cases: 0 at Djibouti/Africa on 3/19/2020 Total: 1 Pop: 1105557
+New Cases: 0 at Eswatini/Africa on 3/15/2020 Total: 1 Pop: 1192271
+New Cases: 0 at Mauritius/Africa on 3/19/2020 Total: 3 Pop: 1298915
+New Cases: 1 at Timor/Asia on 3/22/2020 Total: 1 Pop: 1320942
+New Cases: 0 at Estonia/Europe on 1/18/2020 Total: 0 Pop: 1328701
+New Cases: 22 at Bahrain/Asia on 2/25/2020 Total: 23 Pop: 1463265
+New Cases: 0 at Trinidad and Tobago/North America on 3/15/2020 Total: 2 Pop: 1525663
+New Cases: 0 at Equatorial Guinea/Africa on 3/16/2020 Total: 1 Pop: 1634466
+New Cases: 3 at Kosovo/Europe on 3/15/2020 Total: 5 Pop: 1782115
+New Cases: 0 at Latvia/Europe on 1/6/2020 Total: 0 Pop: 1873919
+New Cases: 0 at Guinea-Bissau/Africa on 3/26/2020 Total: 2 Pop: 2060721
+New Cases: 0 at North Macedonia/Europe on 2/27/2020 Total: 1 Pop: 2103330
+New Cases: 0 at Slovenia/Europe on 2/2/2020 Total: 0 Pop: 2119410
+New Cases: 0 at Lesotho/Africa on 5/14/2020 Total: 1 Pop: 2281454
+New Cases: 0 at Gabon/Africa on 3/15/2020 Total: 1 Pop: 2341179
+New Cases: 0 at Namibia/Africa on 3/15/2020 Total: 2 Pop: 2530151
+New Cases: 3 at Botswana/Africa on 3/30/2020 Total: 3 Pop: 2588423
+New Cases: 0 at Gambia/Africa on 3/18/2020 Total: 1 Pop: 2639916
+New Cases: 1 at Qatar/Asia on 2/29/2020 Total: 1 Pop: 2688235
+New Cases: 1 at Lithuania/Europe on 3/19/2020 Total: 1 Pop: 2786651
+New Cases: 0 at Armenia/Asia on 2/4/2020 Total: 0 Pop: 2790974
+New Cases: 1 at Jamaica/North America on 3/12/2020 Total: 2 Pop: 2827694
+New Cases: 0 at Albania/Europe on 2/26/2020 Total: 0 Pop: 2854710
+New Cases: 0 at Moldova/Europe on 3/9/2020 Total: 1 Pop: 3061506
+New Cases: 0 at Puerto Rico/North America on 3/2/2020 Total: 0 Pop: 3256028
+New Cases: 0 at Bosnia and Herzegovina/Europe on 3/6/2020 Total: 2 Pop: 3270943
+New Cases: 0 at Mongolia/Asia on 3/11/2020 Total: 1 Pop: 3347782
+New Cases: 4 at Uruguay/South America on 3/13/2020 Total: 4 Pop: 3426260
+New Cases: 1 at Eritrea/Africa on 3/21/2020 Total: 1 Pop: 3620312
+New Cases: 1 at Georgia/Asia on 2/26/2020 Total: 1 Pop: 3757980
+New Cases: 1 at Croatia/Europe on 2/25/2020 Total: 1 Pop: 4060135
+New Cases: 10 at Kuwait/Asia on 2/25/2020 Total: 11 Pop: 4250114
+New Cases: 0 at Panama/North America on 3/9/2020 Total: 0 Pop: 4351267
+New Cases: 2 at Oman/Asia on 2/24/2020 Total: 2 Pop: 4520471
+New Cases: 0 at Mauritania/Africa on 3/15/2020 Total: 1 Pop: 4614974
+New Cases: 0 at Ireland/Europe on 3/1/2020 Total: 1 Pop: 4986526
+New Cases: 0 at New Zealand/Oceania on 2/29/2020 Total: 1 Pop: 5129728
+New Cases: 3 at Palestine/Asia on 3/6/2020 Total: 7 Pop: 5133392
+New Cases: 0 at Costa Rica/North America on 3/7/2020 Total: 1 Pop: 5153957
+New Cases: 1 at Liberia/Africa on 3/18/2020 Total: 6 Pop: 5193416
+New Cases: 1 at Norway/Europe on 2/26/2020 Total: 1 Pop: 5403021
+New Cases: 1 at Slovakia/Europe on 3/6/2020 Total: 1 Pop: 5447622
+New Cases: 1 at Singapore/Asia on 1/23/2020 Total: 1 Pop: 5453600
+New Cases: 1 at Central African Republic/Africa on 3/15/2020 Total: 1 Pop: 5457154
+New Cases: 0 at Finland/Europe on 1/30/2020 Total: 1 Pop: 5535992
+New Cases: 0 at Lebanon/Asia on 2/22/2020 Total: 1 Pop: 5592631
+New Cases: 0 at Congo/Africa on 3/16/2020 Total: 1 Pop: 5835806
+New Cases: 0 at Denmark/Europe on 2/2/2020 Total: 0 Pop: 5854240
+New Cases: 1 at El Salvador/North America on 3/19/2020 Total: 1 Pop: 6314167
+New Cases: 0 at Turkmenistan/Asia on 2/28/2021 Total: 0 Pop: 6341855
+New Cases: 3 at Kyrgyzstan/Asia on 3/18/2020 Total: 3 Pop: 6527743
+New Cases: 1 at Paraguay/South America on 3/8/2020 Total: 1 Pop: 6703799
+New Cases: 0 at Libya/Africa on 3/4/2020 Total: 0 Pop: 6735277
+New Cases: 1 at Nicaragua/North America on 3/19/2020 Total: 1 Pop: 6850540
+New Cases: 0 at Serbia/Europe on 2/27/2020 Total: 0 Pop: 6871547
+New Cases: 4 at Bulgaria/Europe on 3/8/2020 Total: 4 Pop: 6885868
+New Cases: 2 at Laos/Asia on 3/24/2020 Total: 2 Pop: 7425058
+New Cases: 0 at Hong Kong/Asia on 1/24/2020 Total: 2 Pop: 7494578
+New Cases: 1 at Sierra Leone/Africa on 4/1/2020 Total: 2 Pop: 8420641
+New Cases: 0 at Togo/Africa on 3/4/2020 Total: 0 Pop: 8644829
+New Cases: 1 at Switzerland/Europe on 2/25/2020 Total: 1 Pop: 8691406
+New Cases: 2 at Austria/Europe on 2/25/2020 Total: 2 Pop: 8922082
+New Cases: 1 at Israel/Asia on 2/21/2020 Total: 1 Pop: 9291000
+New Cases: 4 at United Arab Emirates/Asia on 1/29/2020 Total: 4 Pop: 9365144
+New Cases: 0 at Belarus/Europe on 2/29/2020 Total: 1 Pop: 9578168
+New Cases: 0 at Hungary/Europe on 3/3/2020 Total: 0 Pop: 9709786
+New Cases: 15 at Tajikistan/Asia on 5/1/2020 Total: 15 Pop: 9750064
+New Cases: 0 at Papua New Guinea/Oceania on 3/21/2020 Total: 1 Pop: 9949437
+New Cases: 2 at Honduras/North America on 3/11/2020 Total: 2 Pop: 10278346
+New Cases: 0 at Portugal/Europe on 3/1/2020 Total: 0 Pop: 10290103
+New Cases: 3 at Azerbaijan/Asia on 3/1/2020 Total: 3 Pop: 10312992
+New Cases: 0 at Greece/Europe on 1/6/2020 Total: 0 Pop: 10445365
+New Cases: 1 at Sweden/Europe on 2/1/2020 Total: 1 Pop: 10467097
+New Cases: 3 at Czechia/Europe on 3/1/2020 Total: 3 Pop: 10510750
+New Cases: 1 at South Sudan/Africa on 4/5/2020 Total: 1 Pop: 10748272
+New Cases: 0 at Dominican Republic/North America on 3/2/2020 Total: 1 Pop: 11117874
+New Cases: 0 at Jordan/Asia on 3/4/2020 Total: 1 Pop: 11148278
+New Cases: 3 at Cuba/North America on 3/12/2020 Total: 3 Pop: 11256372
+New Cases: 2 at Haiti/North America on 3/20/2020 Total: 2 Pop: 11447569
+New Cases: 1 at Belgium/Europe on 2/4/2020 Total: 1 Pop: 11611420
+New Cases: 0 at Bolivia/South America on 3/12/2020 Total: 2 Pop: 12079472
+New Cases: 0 at Tunisia/Africa on 3/5/2020 Total: 1 Pop: 12262946
+New Cases: 2 at Burundi/Africa on 3/31/2020 Total: 2 Pop: 12551213
+New Cases: 1 at Benin/Africa on 3/16/2020 Total: 1 Pop: 12996895
+New Cases: 1 at Rwanda/Africa on 3/14/2020 Total: 1 Pop: 13461888
+New Cases: 1 at Guinea/Africa on 3/13/2020 Total: 1 Pop: 13531906
+New Cases: 2 at Zimbabwe/Africa on 3/21/2020 Total: 3 Pop: 15993524
+New Cases: 0 at Cambodia/Asia on 1/28/2020 Total: 1 Pop: 16589023
+New Cases: 0 at Senegal/Africa on 2/28/2020 Total: 0 Pop: 16876720
+New Cases: 0 at Somalia/Africa on 3/17/2020 Total: 1 Pop: 17065581
+New Cases: 0 at Chad/Africa on 3/20/2020 Total: 1 Pop: 17179740
+New Cases: 1 at Netherlands/Europe on 2/27/2020 Total: 1 Pop: 17501696
+New Cases: 0 at Guatemala/North America on 2/17/2020 Total: 0 Pop: 17608483
+New Cases: 6 at Ecuador/South America on 3/1/2020 Total: 6 Pop: 17797737
+New Cases: 4 at Kazakhstan/Asia on 3/13/2020 Total: 4 Pop: 19196465
+New Cases: 1 at Romania/Europe on 2/26/2020 Total: 1 Pop: 19328560
+New Cases: 0 at Zambia/Africa on 3/19/2020 Total: 2 Pop: 19473125
+New Cases: 2 at Chile/South America on 2/23/2020 Total: 2 Pop: 19493184
+New Cases: 0 at Malawi/Africa on 3/29/2020 Total: 0 Pop: 19889742
+New Cases: 1 at Syria/Asia on 3/22/2020 Total: 1 Pop: 21324367
+New Cases: 1 at Sri Lanka/Asia on 1/27/2020 Total: 1 Pop: 21773441
+New Cases: 2 at Mali/Africa on 3/26/2020 Total: 4 Pop: 21904983
+New Cases: 1 at Burkina Faso/Africa on 3/10/2020 Total: 1 Pop: 22100683
+New Cases: 0 at Taiwan/Asia on 1/16/2020 Total: 0 Pop: 23859912
+New Cases: 0 at Niger/Africa on 3/21/2020 Total: 1 Pop: 25252722
+New Cases: 4 at Australia/Oceania on 1/26/2020 Total: 4 Pop: 25921089
+New Cases: 0 at North Korea/Asia on 4/3/2020 Total: 0 Pop: 25971909
+New Cases: 1 at Cameroon/Africa on 3/6/2020 Total: 1 Pop: 27198628
+New Cases: 0 at Cote d'Ivoire/Africa on 3/12/2020 Total: 1 Pop: 27478249
+New Cases: 8 at Venezuela/South America on 3/15/2020 Total: 10 Pop: 28199866
+New Cases: 3 at Madagascar/Africa on 3/20/2020 Total: 3 Pop: 28915653
+New Cases: 0 at Nepal/Asia on 1/26/2020 Total: 1 Pop: 30034989
+New Cases: 1 at Mozambique/Africa on 3/22/2020 Total: 1 Pop: 32077072
+New Cases: 3 at Ghana/Africa on 3/14/2020 Total: 3 Pop: 32833031
+New Cases: 1 at Yemen/Asia on 4/10/2020 Total: 1 Pop: 32981641
+New Cases: 4 at Malaysia/Asia on 1/25/2020 Total: 4 Pop: 33573874
+New Cases: 1 at Peru/South America on 3/6/2020 Total: 1 Pop: 33715472
+New Cases: 5 at Uzbekistan/Asia on 3/16/2020 Total: 6 Pop: 34081449
+New Cases: 1 at Angola/Africa on 3/21/2020 Total: 2 Pop: 34503774
+New Cases: 1 at Saudi Arabia/Asia on 3/2/2020 Total: 1 Pop: 35950396
+New Cases: 0 at Morocco/Africa on 2/7/2020 Total: 0 Pop: 37076584
+New Cases: 2 at Canada/North America on 1/23/2020 Total: 2 Pop: 38155012
+New Cases: 1 at Poland/Europe on 3/4/2020 Total: 1 Pop: 38307726
+New Cases: 5 at Afghanistan/Asia on 2/24/2020 Total: 5 Pop: 40099462
+New Cases: 0 at Ukraine/Europe on 3/4/2020 Total: 1 Pop: 43531422
+New Cases: 1 at Iraq/Asia on 2/24/2020 Total: 1 Pop: 43533592
+New Cases: 0 at Algeria/Africa on 2/26/2020 Total: 1 Pop: 44177969
+New Cases: 4 at Oceania/ on 1/26/2020 Total: 4 Pop: 44491772
+New Cases: 0 at Argentina/South America on 1/1/2020 Total: 0 Pop: 45276780
+New Cases: 1 at Sudan/Africa on 3/14/2020 Total: 1 Pop: 45657202
+New Cases: 1 at Uganda/Africa on 3/21/2020 Total: 1 Pop: 45853778
+New Cases: 1 at Spain/Europe on 2/1/2020 Total: 1 Pop: 47486935
+New Cases: 1 at Colombia/South America on 3/6/2020 Total: 1 Pop: 51516562
+New Cases: 0 at South Korea/Asia on 1/22/2020 Total: 1 Pop: 51830139
+New Cases: 0 at Kenya/Africa on 3/7/2020 Total: 0 Pop: 53005614
+New Cases: 8 at Myanmar/Asia on 3/27/2020 Total: 8 Pop: 53798084
+New Cases: 2 at Italy/Europe on 1/31/2020 Total: 2 Pop: 59240330
+New Cases: 0 at South Africa/Africa on 2/8/2020 Total: 0 Pop: 59392255
+New Cases: 1 at Tanzania/Africa on 3/16/2020 Total: 1 Pop: 63588334
+New Cases: 2 at United Kingdom/Europe on 1/31/2020 Total: 2 Pop: 67281040
+New Cases: 2 at France/Europe on 1/24/2020 Total: 2 Pop: 67422000
+New Cases: 0 at Thailand/Asia on 1/4/2020 Total: 0 Pop: 71601103
+New Cases: 3 at Germany/Europe on 1/28/2020 Total: 4 Pop: 83408554
+New Cases: 0 at Turkey/Asia on 3/12/2020 Total: 1 Pop: 84775404
+New Cases: 2 at Iran/Asia on 2/19/2020 Total: 2 Pop: 87923432
+New Cases: 0 at Democratic Republic of Congo/Africa on 3/12/2020 Total: 1 Pop: 95894118
+New Cases: 0 at Vietnam/Asia on 1/24/2020 Total: 2 Pop: 97468028
+New Cases: 0 at Egypt/Africa on 2/15/2020 Total: 1 Pop: 109262178
+New Cases: 1 at Philippines/Asia on 1/30/2020 Total: 1 Pop: 113880328
+New Cases: 0 at Ethiopia/Africa on 3/14/2020 Total: 1 Pop: 120283026
+New Cases: 0 at Japan/Asia on 1/22/2020 Total: 2 Pop: 124612530
+New Cases: 0 at Mexico/North America on 1/2/2020 Total: 0 Pop: 126705138
+New Cases: 0 at Russia/Europe on 2/1/2020 Total: 2 Pop: 145102755
+New Cases: 3 at Bangladesh/Asia on 3/8/2020 Total: 3 Pop: 169356251
+New Cases: 0 at Nigeria/Africa on 2/29/2020 Total: 1 Pop: 213401323
+New Cases: 1 at Brazil/South America on 2/26/2020 Total: 1 Pop: 214326223
+New Cases: 0 at Pakistan/Asia on 2/26/2020 Total: 2 Pop: 231402116
+New Cases: 2 at Indonesia/Asia on 3/2/2020 Total: 2 Pop: 273753191
+New Cases: 0 at United States/North America on 1/23/2020 Total: 1 Pop: 336997624
+New Cases: 2 at South America/ on 2/23/2020 Total: 2 Pop: 433956670
+New Cases: 2 at European Union/ on 1/24/2020 Total: 2 Pop: 447593544
+New Cases: 2 at North America/ on 1/23/2020 Total: 3 Pop: 596315269
+New Cases: 5 at Low income/ on 2/24/2020 Total: 5 Pop: 701926970
+New Cases: 0 at Europe/ on 1/23/2020 Total: 0 Pop: 748655221
+New Cases: 0 at High income/ on 1/22/2020 Total: 6 Pop: 1241374280
+New Cases: 1 at Africa/ on 2/14/2020 Total: 1 Pop: 1392394303
+New Cases: 1 at India/Asia on 1/30/2020 Total: 1 Pop: 1407563842
+New Cases: 0 at China/Asia on 1/22/2020 Total: 547 Pop: 1425893464
+New Cases: 0 at Upper middle income/ on 1/22/2020 Total: 551 Pop: 2501427940
+New Cases: 2 at Lower middle income/ on 1/23/2020 Total: 2 Pop: 3363196660
+New Cases: 0 at Asia/ on 1/22/2020 Total: 556 Pop: 4693235454
